@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>🎓 Student at UPN Veteran Jakarta<br>💻 Full Stack Web Developer<br>⚙️ Proficient in Git, GitHub, Visual Studio Code, and Figma<br>🚀 Skilled in developing web applications using React<br>🔧 Skilled in API integration, animations with AOS, SweetAlert, and Midtrans payment gateway<br><br>Ask Me About:<br>⚛️ React and Front End development<br>🚀 Using Git for version control<br>🎨 Using Figma for UI/UX design<br>💼 Internship and career experience<br>💬 Team-based project management and organization
+About Me:<br> 👨‍💻 Only humans who love coding always want to learn.
 
 
 ## 🌐 Socials:
