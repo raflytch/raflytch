@@ -23,9 +23,11 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflytch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
-</div>
+![raflytch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raflytch&theme=prussian&hide_border=true)
+
+<br/>
+
+![raflytch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflytch&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 <br/>
 
