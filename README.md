@@ -1,4 +1,4 @@
-<h2 align="left" style="font-size: 26px; font-weight: bold; color: #333;">Hi 👋! My name is Rafly and I'm a Software Developer</h2>
+<h2 align="left" style="font-size: 26px; font-weight: bold; color: #333;">Hi 👋! My name is Rafly and I'm a Software Engineer</h2>
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin-right: 12px;" />
