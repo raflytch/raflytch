@@ -27,10 +27,6 @@
 
 <br/>
 
-![raflytch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflytch&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-
-<br/>
-
 <div align="left">
   <a href="https://www.instagram.com/raflytch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" />
@@ -41,5 +37,3 @@
 </div>
 
 <br clear="both" />
-
-<img src="https://raw.githubusercontent.com/raflytch/raflytch/output/snake.svg" alt="Snake animation" />
