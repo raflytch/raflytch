@@ -1,7 +1,5 @@
 ### Hi, I'm Rafly Aziz Abdillah
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raflyazizabdillah/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/raflytch/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-</p>
+<a href="https://www.linkedin.com/in/raflyazizabdillah/"><kbd><img src="https://skillicons.dev/icons?i=linkedin" height="18" align="center"/> LinkedIn</kbd></a>
+&nbsp;
+<a href="https://www.instagram.com/raflytch/"><kbd><img src="https://skillicons.dev/icons?i=instagram" height="18" align="center"/> Instagram</kbd></a>
